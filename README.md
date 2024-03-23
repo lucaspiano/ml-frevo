@@ -3,4 +3,4 @@ App that tests different neural networks to create new Frevo music and checks so
 
 The complete source-code is hosted at 
 
-https://drive.google.com/drive/folders/1RrHVZu7Hk5jom2V50Q_q4lt9OGXm2Nwf?usp=drive_link
+https://drive.google.com/drive/u/0/folders/12TbYk1lSGrInJ30zGWIl4ILBselMF6we
